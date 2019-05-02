@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bnav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/bnav_reminder"
+        android:icon="@drawable/ic_event_note_black_24dp"
+        android:title="Reminder" />
+
+    <item
+    android:id="@+id/bnav_note"
+    android:icon="@drawable/ic_note_black_24dp"
+    android:title="Note" />
+
+    <item
+    android:id="@+id/bnav_audioNote"
+    android:icon="@drawable/ic_audionote_black_24dp"
+    android:title="AudioNote" />
+
+    <item
+        android:id="@+id/bnav_account"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Account" />
+
+
+
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "825962091671",
+    "firebase_url": "https://seniorassistant-f7fd0.firebaseio.com",
+    "project_id": "seniorassistant-f7fd0",
+    "storage_bucket": "seniorassistant-f7fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825962091671:android:1d38da0ddcf73cdb",
+        "android_client_info": {
+          "package_name": "com.example.asus.seniorassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825962091671-jho4e043oundu3ssreg7cllv9njnesj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dvhNQQejGx9guISGmYs77LKOwWDZrV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
